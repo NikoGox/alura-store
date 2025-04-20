@@ -75,5 +75,13 @@ A partir de los resultados obtenidos, podemos destacar los siguientes puntos:
 
 - **Ajustar estrategias de envío**: Las tiendas en áreas rurales deberían revisar sus costos y tiempos de envío, ya que esto podría estar afectando negativamente las ventas.
 
+## **Imágenes**
+
+![Gráfico 1](grafico1.png)
+
+![Gráfico 2](grafico2.png)
+
+![Gráfico 3](grafico3.png)
+
 
 Este informe proporciona una comprensión profunda de cómo las ubicaciones geográficas y las categorías de productos influyen en las ventas. Las conclusiones y recomendaciones obtenidas de este análisis pueden ser útiles para los responsables de la toma de decisiones comerciales.
